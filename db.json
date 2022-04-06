@@ -1,0 +1,40 @@
+{
+  "canciones": [
+    {
+      "nombre": "Tiempo de lluvoa",
+      "fecha": "2022-12-31",
+      "album": "Tiempo",
+      "autor": "David",
+      "imgCancion": "",
+      "notas": "",
+      "id": 1
+    },
+    {
+      "nombre": "Tiempo de lluvia",
+      "fecha": "2022-12-31",
+      "album": "Tiempo de quimeras",
+      "autor": "David Miranda",
+      "imgCancion": "",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "Polvo de estrella",
+      "fecha": "2022-01-03",
+      "album": "Luego te digo",
+      "autor": "Fulano",
+      "imgCancion": "",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Hola",
+      "fecha": "",
+      "album": "Yo",
+      "autor": "Bo",
+      "imgCancion": "",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
